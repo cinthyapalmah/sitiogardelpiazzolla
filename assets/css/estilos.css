@@ -1,0 +1,54 @@
+body{
+    background-color:#DDDDDD;
+}
+
+a.navbar-brand{
+    color: #333333;
+    font-family: "loraitalic";
+
+}
+
+div.container-fluid{
+    color: #F8A099;
+}
+
+.titulo_background1{
+    font-family: "loraitalic";
+    color: white;
+    font-size: 30px;
+    text-align: left;
+    margin-top: 50px;
+}
+
+.titulocarta{
+    font-family: "loraitalic";
+    color: #F8A099;
+    font-size: 30px;
+}
+
+.fechacarta{
+    font-family: "loraitalic";
+    color: #F8A099;
+    font-size: 10px;
+}
+
+.textocarta{
+    font-family: "loraregular";
+    color: #4D4D4D;
+    text-align: justify;
+}
+
+.foto1bio{
+width: 600px;
+height: 600px;
+}
+
+@font-face {
+    font-family: "loraregular";
+    src: url("Lora-Regular.ttf");
+}
+
+@font-face {
+    font-family: "loraitalic";
+    src: url("Lora-Italic.ttf");
+}
